@@ -6,3 +6,4 @@ scikit-learn
 streamlit
 joblib
 google-genai
+python-dotenv
